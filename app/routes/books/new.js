@@ -18,7 +18,7 @@ export default Ember.Route.extend({
       });
 
       var bookNew2 = that.store.createRecord("book", {
-        "id": 2,
+        "id": 4,
         "title": "Some Other Book On Ember.js",
         "isbn": "ISBN2",
         "pages": 200,

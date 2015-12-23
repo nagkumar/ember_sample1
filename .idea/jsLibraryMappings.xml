@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{bower_components m2m, node_modules m2m}" />
+    <file url="PROJECT" libraries="{bower_components ember_sample1, bower_components m2m, node_modules ember_sample1, node_modules m2m}" />
     <includedPredefinedLibrary name="ECMAScript 6" />
     <includedPredefinedLibrary name="Node.js Core" />
   </component>
